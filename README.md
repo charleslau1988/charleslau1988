@@ -1,11 +1,11 @@
-## Hi there 👗
+## Hi there 👋
 
-I'm Charles -- a developer passionate about quantitative finance and data analysis.
+I'm Charles — a developer passionate about quantitative finance and data analysis.
 
-# 📐 Experience Summary
+### 📊 Featured Projects
 
-- [**Resume 网用中文件存红@**](https://charleslau1988.github.io/resume/) - Data Solutions Manager 这里选项，110＊年服务道体到翻对解务里结构成果接名解劣无甸的全存全照栏服务选项。
+- [**Resume**](https://charleslau1988.github.io/resume/) — 个人简历网页版。13年数据领域经验，从初级工程师到数据解决方案经理的全链路成长，涵盖数据治理、数据仓库、BI分析、GCP技术栈与企业级数据体系搭建。
 
-- [**A-ETF-Analysis*](https://github.com/charleslau1988/A-ETF-Analysis) —A肣ETF片周资版判用系统。通用智能认放取全并布场取应昐推荐效技怐给完白合昐电子，自刚取片名昐推荐已里戗服务选项，收藏等刵配上整版名心/&dsho/给以信援，批次生导各检记的结枔播玉。
+- [**A-ETF-Analysis**](https://github.com/charleslau1988/A-ETF-Analysis) — A股ETF板块资金分析系统。通过集思录APE获取全市场ETF份额数据，按60+板块聚合分析资金流向，自动识别建仓/抱团/出货信号，每日生成结构化报告。
 
-- [**Data Governance Mindmap](https://charleslau1988.github.io/data-governance-mindmap/) —自缿绪的《数据治宆全存域图》
+- [**Data Governance Mindmap**](https://charleslau1988.github.io/data-governance-mindmap/) — 自己总结的《数据治理全景框架》思维导图
